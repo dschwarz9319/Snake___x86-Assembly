@@ -1,0 +1,10 @@
+﻿Build started 5/30/2019 10:48:36 PM.
+     1>Project "C:\Users\Dan\Desktop\SNAAAAAKEEE\SNAAAAAKEEE\SNAAAAAKEEE.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Dan\Desktop\SNAAAAAKEEE\Debug\SNAAAAAKEEE.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Irvine kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Dan\Desktop\SNAAAAAKEEE\Debug\SNAAAAAKEEE.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Dan\Desktop\SNAAAAAKEEE\Debug\SNAAAAAKEEE.lib" /MACHINE:X86 Debug\SNAAAAAKEEE.obj
+         SNAAAAAKEEE.vcxproj -> C:\Users\Dan\Desktop\SNAAAAAKEEE\Debug\SNAAAAAKEEE.exe
+     1>Done Building Project "C:\Users\Dan\Desktop\SNAAAAAKEEE\SNAAAAAKEEE\SNAAAAAKEEE.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.66
